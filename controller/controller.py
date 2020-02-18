@@ -45,7 +45,7 @@ def winner(output):
 
 #State machine
 def convert_to_key(last_key, current_key):
-    print(current_key)
+    #print(str(last_key) + " " + str(current_key))
     dic = {
         'q': "left",
         'e': "right"
@@ -54,6 +54,10 @@ def convert_to_key(last_key, current_key):
     is_current_key_none = current_key == None
 
     if (is_last_key_none and is_current_key_none):
+        pyautogui.keyUp("space")
+        pyautogui.keyUp("left")
+        pyautogui.keyUp("right")
+        pyautogui.keyUp("ctrl")
         return
 
     last_key_touple = dic.get(last_key) != None
