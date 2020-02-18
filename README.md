@@ -5,9 +5,9 @@
 🎮🕹 A video controller for games developed during the Soft Computing university course.</p>
 
 ## Requirements
-* [Python 3.7]([https://www.python.org/downloads/release/python-370/](https://www.python.org/downloads/release/python-370/)l)
-* [Anaconda]([https://www.anaconda.com/distribution/#download-section](https://www.anaconda.com/distribution/#download-section)) [*optional*]
-* [PyCharm]([https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)) [*optional*]
+* [Python 3.7](https://www.python.org/downloads/release/python-370/](https://www.python.org/downloads/release/python-370/)
+* [Anaconda](https://www.anaconda.com/distribution/#download-section) [*optional*]
+* [PyCharm](https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/) [*optional*]
 
 ## Environment setup
 
