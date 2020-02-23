@@ -80,7 +80,7 @@ Smash
 ## Demo
 ![Hnet-image](https://user-images.githubusercontent.com/30222786/75114067-39c97600-5653-11ea-9f6e-b7789726127b.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nj4s8Cejb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Full demo link](https://www.youtube.com/watch?time_continue=8&v=0nj4s8Cejb8&feature=emb_logo)
 
 ## About the Team
 [<img src="https://avatars1.githubusercontent.com/u/30222786?s=88&v=4" width="100px;"/>](https://github.com/FilipMeng)<br/> [<sub>Filip Mladenović</sub>](https://github.com/FilipMeng)
