@@ -78,7 +78,9 @@ Smash
 </table>
   
 ## Demo
-[![Watch the demo](https://user-images.githubusercontent.com/30222786/74771090-d96eb900-528d-11ea-8045-72b1f9acdbad.png)](https://files.fm/u/pey38vv5#/view/demo.mp4;play;/subscribe)
+![Hnet-image](https://user-images.githubusercontent.com/30222786/75114067-39c97600-5653-11ea-9f6e-b7789726127b.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nj4s8Cejb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About the Team
 [<img src="https://avatars1.githubusercontent.com/u/30222786?s=88&v=4" width="100px;"/>](https://github.com/FilipMeng)<br/> [<sub>Filip Mladenović</sub>](https://github.com/FilipMeng)
